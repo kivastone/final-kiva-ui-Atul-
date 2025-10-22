@@ -10,7 +10,7 @@
           <div class="privacy-wrapper">
             <div class="privacy-content">
               <h1 class="privacy-title">Terms & Conditions</h1>
-              <p class="effective-date"><strong>Effective Date:</strong> [Insert Date]</p>
+              <p class="effective-date"><strong>Effective Date:</strong> 29/07/2024</p>
 
               <p class="intro-text">
                 Welcome to Kiva Stone (“Company,” “we,” “our,” or “us”). By accessing or using our website (kivastone.com) and related services (collectively, the “Services”), you agree to comply with and be bound by these Terms & Conditions (“Terms”). If you do not agree with these Terms, you should not use our Services.

@@ -9,7 +9,7 @@
           <div class="privacy-wrapper">
             <div class="privacy-content">
               <h1 class="privacy-title">Privacy Policy</h1>
-              <p class="effective-date"><strong>Effective Date:</strong> [Insert Date]</p>
+              <p class="effective-date"><strong>Effective Date:</strong> 29/07/2024</p>
 
               <p class="intro-text">
                 Kiva Stone ("Company," "we," "our," or "us") respects your privacy and is committed to protecting the personal information of our clients, partners, and website visitors. This Privacy Policy outlines the types of information we may collect, how we use it, and the safeguards we maintain to ensure compliance with applicable privacy and data protection laws.
